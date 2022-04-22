@@ -1,6 +1,6 @@
 /**
    * Error Chat Gua !!!
-   wa.me/67572919291
+   wa.me/6282338699565
 */
 
 const fs = require('fs')
@@ -19,7 +19,7 @@ global.APIKeys = {
 // Other
 global.owner = ['6282338699565','6282338699565']
 global.grub owner = 'https://chat.whatsapp.com/FKqWmdf3XZWD7c7LZRhjfl'
-global.bot = 'NahBotz-MD²'
+global.bot = 'VISBOT-MD²'
 global.premium = ['6282338699565']
 global.packname = 'ahmat unyu2'
 global.author = 'ahmat unyu2'
